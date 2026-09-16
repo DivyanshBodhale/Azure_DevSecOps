@@ -4,7 +4,7 @@
 
 ##Three-Tier Workflow Architecture 
 
-![Uploading Azure_DevOps project workflow visuals.png…]()
+
 
 
 
