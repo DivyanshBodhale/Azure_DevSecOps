@@ -1,6 +1,6 @@
 # Project Overview: Azure DevOps with Kubernetes Deployment
-[![LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue.svg)](https://www.linkedin.com/in/aman-devops/)
-[![GitHub](https://img.shields.io/github/stars/AmanPathak-DevOps.svg?style=social)](https://github.com/AmanPathak-DevOps)
+[![LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue.svg)](https://www.linkedin.com/in/divyansh-bodhale-5958b4257/)
+[![GitHub](https://img.shields.io/github/stars/AmanPathak-DevOps.svg?style=social)]([https://github.com/AmanPathak-DevOps](https://github.com/DivyanshBodhale?tab=repositories))
 [![Medium](https://img.shields.io/badge/Medium-Follow%20Me-%2312100E.svg)](https://medium.com/@amanpathakdevops)
 [![Terraform](https://img.shields.io/badge/Terraform-%E2%9C%A8-lightgrey)](https://www.terraform.io)
 [![Azure Cloud](https://img.shields.io/badge/Azure%20Cloud-%230078D4.svg)](https://azure.microsoft.com)
