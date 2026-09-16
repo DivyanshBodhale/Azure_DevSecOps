@@ -2,7 +2,8 @@
 [![LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue.svg)](https://www.linkedin.com/in/divyansh-bodhale-5958b4257/)
 
 
-![Three-Tier Banner](assets/Azure-Three-Tier.gif)
+![Three-Tier Banner](![Uploading image.png…]()
+)
 
 Welcome to our Azure DevOps with Kubernetes Deployment project! This repository houses the infrastructure code, Kubernetes manifests, and source code needed to set up a robust DevOps pipeline and deploy applications to a Kubernetes cluster on Azure.
 
