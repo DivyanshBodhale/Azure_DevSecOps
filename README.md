@@ -2,9 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue.svg)](https://www.linkedin.com/in/divyansh-bodhale-5958b4257/)
 
 
-##Three-Tier Workflow Architecture 
-
-
+![Three-Tier Banner](assets/Azure-Three-Tier.gif)
 
 
 
