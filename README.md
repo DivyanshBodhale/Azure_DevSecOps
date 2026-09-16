@@ -1,4 +1,3 @@
-<img width="810" height="1080" alt="image" src="https://github.com/user-attachments/assets/fe41c4a0-f1f2-4f5c-9edd-91a7cb42d351" /># Project Overview: Azure DevOps with Kubernetes Deployment
 [![LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue.svg)](https://www.linkedin.com/in/divyansh-bodhale-5958b4257/)
 
 
