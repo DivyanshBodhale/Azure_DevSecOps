@@ -1,13 +1,6 @@
 # Project Overview: Azure DevOps with Kubernetes Deployment
 [![LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue.svg)](https://www.linkedin.com/in/divyansh-bodhale-5958b4257/)
-[![GitHub](https://img.shields.io/github/stars/AmanPathak-DevOps.svg?style=social)]([https://github.com/AmanPathak-DevOps])(https://github.com/DivyanshBodhale?tab=repositories))
-[![Medium](https://img.shields.io/badge/Medium-Follow%20Me-%2312100E.svg)](https://medium.com/@amanpathakdevops)
-[![Terraform](https://img.shields.io/badge/Terraform-%E2%9C%A8-lightgrey)](https://www.terraform.io)
-[![Azure Cloud](https://img.shields.io/badge/Azure%20Cloud-%230078D4.svg)](https://azure.microsoft.com)
-[![HashiCorp](https://img.shields.io/badge/HashiCorp-%23326CE5.svg)](https://www.hashicorp.com)
-[![HashiCorp Vault](https://img.shields.io/badge/HashiCorp%20Vault-%2363299D.svg)](https://www.vaultproject.io)
-[![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg)](https://about.gitlab.com)
-[![FluxCD](https://img.shields.io/badge/FluxCD-%230075A8.svg)](https://fluxcd.io)
+
 
 ![Three-Tier Banner](assets/Azure-Three-Tier.gif)
 
